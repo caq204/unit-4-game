@@ -1,0 +1,10 @@
+body{
+    background-image: url("https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=350");
+}
+
+h1{
+    color: white;
+    background-color:red;
+    text-align: center;
+    padding: 15px;
+}
